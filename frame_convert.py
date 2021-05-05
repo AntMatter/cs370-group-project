@@ -1,3 +1,5 @@
+# Taken from the libfreenect library
+# https://github.com/OpenKinect/libfreenect
 import numpy as np
 
 
