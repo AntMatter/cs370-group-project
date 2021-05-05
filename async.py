@@ -1,3 +1,6 @@
+
+# Original Code Taken from the libfreenect library then modified for use in the project
+# https://github.com/OpenKinect/libfreenect
 #!/usr/bin/env python
 import freenect
 import matplotlib.pyplot as mp
